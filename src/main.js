@@ -13,7 +13,7 @@ Vue.use(VueRouter)
 Vue.config.productionTip = false
 
 const router = new VueRouter({
-  mode: "hash",
+  mode: "history",
   routes: [
     { path: '/', component: Home},
     { path: '/about', component: About},

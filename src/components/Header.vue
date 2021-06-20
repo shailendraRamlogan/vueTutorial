@@ -6,14 +6,14 @@
       <v-spacer></v-spacer>
 
       <v-toolbar-items class="hidden-xs-only">
-        <v-btn text>
-          <router-link to="/">HOME</router-link>  
+        <v-btn text to="/">
+          HOME  
         </v-btn>
-        <v-btn text>
-          <router-link to="/about">ABOUT</router-link>
+        <v-btn text to="/about">
+          ABOUT
         </v-btn>
-        <v-btn text>
-          <router-link to="/contact">CONTACT</router-link>
+        <v-btn text to="/contact">
+          CONTACT
         </v-btn>
       </v-toolbar-items>
       <div class="hidden-sm-and-up">
