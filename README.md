@@ -1,24 +1,2 @@
-# vuetutorial
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+DEMO of a Simple Vue frontend:
+https://goofy-feynman-fa34f1.netlify.app/
